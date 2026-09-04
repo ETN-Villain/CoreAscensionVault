@@ -1,5 +1,5 @@
 {
-  "lastProcessedBlock": 15682044,
+  "lastProcessedBlock": 15682135,
   "history": [
     {
       "date": "2026-06-04",
@@ -690,11 +690,13 @@
     },
     {
       "date": "2026-09-04",
-      "nftsStaked": 3,
-      "coreStaked": 7646.89,
-      "totalCoreStaked": 7646.89,
-      "rewardsRemaining": 6832.33,
-      "currentApr": 84.15
+      "coreStaked": 10946.89,
+      "nftsStaked": 4,
+      "nftsStakedDelta": 1,
+      "rewardsRemaining": 13500,
+      "totalDripped": 6500,
+      "totalCoreStaked": 10946.89,
+      "currentApr": 58.78
     }
   ],
   "userStakes": {
@@ -703,7 +705,13 @@
         "nftAddress": "0x5C81a5609EaeEF7962F1D089D6343F9790387901",
         "tokenId": "252"
       }
+    ],
+    "0x3fd2e5b4ac0eff6dfdf2446abddab3f66b425099": [
+      {
+        "nftAddress": "0x5C81a5609EaeEF7962F1D089D6343F9790387901",
+        "tokenId": "254"
+      }
     ]
   },
-  "lastUpdated": "2026-09-04T10:35:42.912Z"
+  "lastUpdated": "2026-09-04T10:43:17.394Z"
 }
